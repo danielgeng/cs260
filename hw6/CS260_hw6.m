@@ -1,10 +1,4 @@
 function CS260_hw6()
-    %{
-        Daniel Geng
-        ID: 504588536
-        12/1/15
-    %}
-    
     % turn images into vectors
     [data, personid, subsetid] = process_data('face_data.mat');
     
